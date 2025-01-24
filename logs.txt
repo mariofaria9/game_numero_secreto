@@ -1,0 +1,313 @@
+PS C:\Programacao_Oracle_Alura_OneNextEducation\js-curso-2-aula1> git log
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+
+    Mudança para range de 50 números
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+
+    Mudança para range de 50 números
+
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+
+    Mudança para range de 50 números
+
+commit 131b0f5f1cb23f3ebd60110b12e973b4b9286074
+Author: Mario Faria <mariofaria9@hotmail.com>
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+
+    Mudança para range de 50 números
+
+commit 131b0f5f1cb23f3ebd60110b12e973b4b9286074
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 19:07:38 2025 -0300
+:...skipping...
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+
+    Mudança para range de 50 números
+
+commit 131b0f5f1cb23f3ebd60110b12e973b4b9286074
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 19:07:38 2025 -0300
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+
+    Mudança para range de 50 números
+
+commit 131b0f5f1cb23f3ebd60110b12e973b4b9286074
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 19:07:38 2025 -0300
+
+    mudando range para 100 números
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+
+    Mudança para range de 50 números
+
+commit 131b0f5f1cb23f3ebd60110b12e973b4b9286074
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 19:07:38 2025 -0300
+
+    mudando range para 100 números
+
+:...skipping...
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+
+    Mudança para range de 50 números
+
+commit 131b0f5f1cb23f3ebd60110b12e973b4b9286074
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 19:07:38 2025 -0300
+
+    mudando range para 100 números
+
+commit 34957cae3a93be52a26a9357d1cbcf3f85ae4c0c
+:...skipping...
+commit 38e8e822ad5beab3f3a7394759a3c335e37f0995 (HEAD -> main, origin/main)
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:59:17 2025 -0300
+
+    Update README.md
+
+commit bf719dffe8ebdcb5800793a3d460bed71b4ffa2a
+Author: Mario Faria <60789709+mariofaria9@users.noreply.github.com>
+Date:   Fri Jan 24 10:58:19 2025 -0300
+
+    Create README.md
+
+    Creation of the readme file.
+
+commit 0d4cb72fa036eef7882ef3f37b8b3a7ffe56cdbd
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 21:44:09 2025 -0300
+
+    Mudança para range de 50 números
+
+commit 131b0f5f1cb23f3ebd60110b12e973b4b9286074
+Author: Mario Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 19:07:38 2025 -0300
+
+    mudando range para 100 números
+
+commit 34957cae3a93be52a26a9357d1cbcf3f85ae4c0c
+Author: Mario de Faria <mariofaria9@hotmail.com>
+Date:   Thu Jan 23 16:12:39 2025 -0300
+
+    projeto inicial
+(END)
